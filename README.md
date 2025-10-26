@@ -1,4 +1,5 @@
 *****Task Manager API*****
+
 ** About **
 
 A project to build a RESTful Tasks API using Node.js and Express.js, implementing basic CRUD operations, input validation, and robust error handling. The API can be tested using Postman.
@@ -6,7 +7,6 @@ A project to build a RESTful Tasks API using Node.js and Express.js, implementin
 install node
 install express
  - npm install express
-
 
 **Features **
 
